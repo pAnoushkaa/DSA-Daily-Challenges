@@ -1,1 +1,6 @@
-15 April- today i learnt how to print a graph!
+cyclic graph,acyclic graph undirected directed weighted unweighted
+to impliment a graph-ADJACENCY MATRIX, ADJACENCY LIST
+ADJACENCY MATRIX
+make a matrix of connected paths
+ADJACENCY LIST
+implimentation   map <int ,list <int>>;   vector <vector<int>>
